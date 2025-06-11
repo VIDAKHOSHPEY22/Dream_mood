@@ -130,4 +130,7 @@ I'd love to hear your feedback or collaborate with others interested in AI and m
 
 
 
+🚀 Featured on Dev.to:  
+👉 [Read the full article](https://dev.to/vidakhoshpey22/your-ai-powered-dream-mood-analyst-with-runner-h-3i29)
+
 Thanks to DEV and Runner H for this incredible opportunity! 💙
