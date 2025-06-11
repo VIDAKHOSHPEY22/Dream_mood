@@ -6,6 +6,7 @@ published: true
 tags: devchallenge, runnerhchallenge, ai, mentalhealth
 cover_image: https://i.imgur.com/PVhDNST.jpg
 ![Dream Image](./dream.jpg)
+![Dream Image](./image.png)
 
 ---
 
