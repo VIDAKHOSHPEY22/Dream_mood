@@ -111,8 +111,7 @@ Requires Python 3.8+ and internet access for some APIs
 ### 🎥 Demo Video
 
 Watch Moodream in action on YouTube:  
-👉 [https://youtu.be/your_youtube_video_id](https://youtu.be/your_youtube_video_id)
-
+👉 [https://youtu.be/0PZ4DCH8UtU?si=eb-lVUCMLnDcj0vT](https://youtu.be/0PZ4DCH8UtU?si=eb-lVUCMLnDcj0vT)
 ---
 
 ### 📂 Source Code
