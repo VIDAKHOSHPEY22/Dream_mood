@@ -16,26 +16,23 @@ This is my submission for the Runner H AI Prompting Challenge 🧠
 
 ### ✨ What is Moodream?
 
-**Moodream** is a creative and emotional productivity tool powered by **Runner H**.  
-It acts as a daily **dream journal**, but with a twist:
+**Moodream** is a personal project designed to help users record and analyze their dreams and moods using AI, bridging the worlds of subconscious experiences and emotional well-being.  
 
-- 🧠 Analyzes your dreams  
-- 💖 Detects your emotional state  
-- 🗂️ Categorizes dream types  
-- 📈 Generates monthly insight reports
-
-Whether you're a psychology student, a dream enthusiast, or just curious about your subconscious, Moodream transforms your inner world into meaningful data.
+Currently, it supports:  
+- 🧠 Daily dream journaling via text input  
+- 💖 Basic emotional tone detection using sentiment analysis  
+- 🗂️ Categorization of dream types (e.g., nightmares, recurring dreams)  
+- 📈 Generation of simple monthly reports summarizing dream patterns and moods  
 
 ---
 
-### 🧠 What Runner H does:
+### 🧠 How Runner H powers Moodream:
 
-- Prompts you each morning to share your latest dream (text or voice)
-- Extracts and summarizes key dream elements
-- Analyzes emotional tone (e.g. fear, joy, longing, anxiety)
-- Classifies dream type (e.g. nightmare, recurring, symbolic)
-- Tracks emotional and mood patterns over time
-- Generates a visual monthly dream & mood report
+- Prompts users daily to share their dream descriptions  
+- Extracts key themes and symbols using NLP techniques  
+- Analyzes emotional tones like fear, joy, anxiety, or longing  
+- Classifies dreams by type through clustering and keyword analysis  
+- Tracks mood trends over time with visual reports  
 
 ---
 
@@ -49,7 +46,7 @@ Whether you're a psychology student, a dream enthusiast, or just curious about y
 
 ### 📅 Sample Monthly Report:
 
-> - Total dreams: 12  
+> - Total dreams logged: 12  
 > - Nightmares: 2  
 > - Recurring dreams: 3  
 > - Most common emotion: **longing**  
@@ -58,17 +55,40 @@ Whether you're a psychology student, a dream enthusiast, or just curious about y
 
 ---
 
-### 🚀 Why it's special
+### 🚀 Future Development & Vision
 
-Moodream blends **psychology, AI, and journaling** — it’s not about automation, it’s about **self-discovery** and **mental well-being**.  
-It proves Runner H can enrich our **emotional lives**, not just our to-do lists.
+Moodream is a functional prototype that sets the foundation for a more comprehensive mental wellness tool. Planned improvements include:
+
+- **Voice input integration** for easier dream journaling  
+- **Advanced NLP and sentiment analysis** using transformer-based models for nuanced emotion detection  
+- **User-friendly, responsive UI** with rich data visualization and interaction  
+- **Personalized feedback and recommendations** based on dream and mood patterns  
+- **Cloud-based storage and multi-device synchronization** for seamless user experience  
+- **Habit-building features** like reminders and motivational notifications  
+
+With these enhancements, Moodream aims to become a trusted digital companion for self-discovery and mental health support.
 
 ---
 
-### 💬 I'd love your feedback!
+### 🎥 Demo Video
 
-Would you use a tool like this? What features would you add?  
-Feel free to leave a comment or connect with me on X (Twitter):  
+Watch Moodream in action on YouTube:  
+👉 [https://youtu.be/your_youtube_video_id](https://youtu.be/your_youtube_video_id)
+
+---
+
+### 📂 Source Code
+
+Explore the code, contribute, or report issues:  
+👉 [https://github.com/VIDAKHOSHPEY22/Dream_mood](https://github.com/VIDAKHOSHPEY22/ِDream_mood)
+
+---
+
+### 💬 Feedback & Collaboration
+
+I’d love to hear your thoughts! Would you use a tool like Moodream?  
+What features or improvements would you suggest?  
+Connect with me on X (Twitter):  
 👉 [@VidaTwin16133](https://x.com/VidaTwin16133)
 
-Thanks DEV and Runner H for this awesome opportunity! 💙
+Thanks to DEV and Runner H for this incredible opportunity! 💙
