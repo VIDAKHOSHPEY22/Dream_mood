@@ -101,7 +101,7 @@ What features or improvements would you suggest?
 Connect with me on X (Twitter):  
 👉 [@VidaTwin16133](https://x.com/VidaTwin16133)
 Connect with me on Linkdin:  
-👉 [@VidaTwin16133](https://x.com/VidaTwin16133)
+👉[ [@vida-khoshpey](https://www.linkedin.com/in/vida-khoshpey-820124265)
 
 
 
