@@ -80,7 +80,7 @@ Watch Moodream in action on YouTube:
 ### 📂 Source Code
 
 Explore the code, contribute, or report issues:  
-👉 [https://github.com/VIDAKHOSHPEY22/Dream_mood](https://github.com/VIDAKHOSHPEY22/ِDream_mood)
+👉 [https://github.com/VIDAKHOSHPEY22/ِDream_mood](https://github.com/VIDAKHOSHPEY22/Dream_mood)
 
 ---
 
