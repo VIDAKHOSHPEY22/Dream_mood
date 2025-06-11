@@ -100,5 +100,9 @@ I’d love to hear your thoughts! Would you use a tool like Moodream?
 What features or improvements would you suggest?  
 Connect with me on X (Twitter):  
 👉 [@VidaTwin16133](https://x.com/VidaTwin16133)
+Connect with me on Linkdin:  
+👉 [@VidaTwin16133](https://x.com/VidaTwin16133)
+
+
 
 Thanks to DEV and Runner H for this incredible opportunity! 💙
