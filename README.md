@@ -5,6 +5,8 @@ title: Moodream — An AI-Powered Dream & Mood Analyzer using Runner H 😴🌙
 published: true
 tags: devchallenge, runnerhchallenge, ai, mentalhealth
 cover_image: https://i.imgur.com/PVhDNST.jpg
+![Dream Image](./dream.jpg)
+
 ---
 
 ## 💤 Moodream — AI Dream & Mood Journal with Runner H
