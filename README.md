@@ -1,12 +1,14 @@
-## Moodream — An AI-Powered Dream & Mood Analyzer using Runner H 😴🌙
-
 ---
 title: Moodream — An AI-Powered Dream & Mood Analyzer using Runner H 😴🌙
 published: true
 tags: devchallenge, runnerhchallenge, ai, mentalhealth
 cover_image: https://i.imgur.com/PVhDNST.jpg
+---
+
+# Moodream — An AI-Powered Dream & Mood Analyzer using Runner H 😴🌙
+
 ![Dream Image](./dream.jpg)
-![Dream Image](./image.png)
+![Additional Image](./image.png)
 
 ---
 
@@ -83,7 +85,7 @@ Watch Moodream in action on YouTube:
 ### 📂 Source Code
 
 Explore the code, contribute, or report issues:  
-👉 [https://github.com/VIDAKHOSHPEY22/ِDream_mood](https://github.com/VIDAKHOSHPEY22/Dream_mood)
+👉 [https://github.com/VIDAKHOSHPEY22/Dream_mood](https://github.com/VIDAKHOSHPEY22/Dream_mood)
 
 ---
 
