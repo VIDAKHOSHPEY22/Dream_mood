@@ -1,0 +1,12 @@
+[
+    {
+        "date": "2025-06-11",
+        "dream": "Last night, I was walking alone in a foggy forest. I could hear whispers all around me, but I couldn't see anyone. Suddenly, I saw a white owl flying above me. It looked at me and whispered, \"You are not lost.\" Then I woke up, feeling strangely calm but a bit scared.",
+        "mood_score": -0.021052631578947364,
+        "mood_label": "Joy",
+        "type": "Symbolic 🌈",
+        "topics": [],
+        "mood_detail": "{'joy': 0.10526315789473684, 'fear': 0.10526315789473684, 'anger': 0.05263157894736842, 'sadness': 0.10526315789473684, 'surprise': 0.05263157894736842, 'trust': 0.10526315789473684}",
+        "cluster": 0
+    }
+]
