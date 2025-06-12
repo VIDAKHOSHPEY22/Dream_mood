@@ -134,3 +134,6 @@ I'd love to hear your feedback or collaborate with others interested in AI and m
 👉 [Read the full article](https://dev.to/vidakhoshpey22/your-ai-powered-dream-mood-analyst-with-runner-h-3i29)
 
 Thanks to DEV and Runner H for this incredible opportunity! 💙
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
